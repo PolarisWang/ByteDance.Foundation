@@ -1,7 +1,7 @@
 {
   "name": "com.bytedance.foundation",
   "title": "ByteDance foundation library",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "displayName": "ByteDance Foundation",
   "description": "Foundation Library",
   "unity": "2018.1",
